@@ -44,7 +44,9 @@ You must fully understand what the macros do before using them.
 
 These files are shared for reference, learning and development purposes only.
 
-/images/Macro For Speed anf SCV changes.jpg
+<p align="center">
+  <img src="images/Macro For Speed anf SCV changes.jpg" width="800">
+</p>
 
 # 6WD Tridex – Full CAD Release
 

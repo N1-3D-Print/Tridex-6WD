@@ -1,3 +1,49 @@
+# Firmware & Macros
+
+This repository also includes my full Klipper macro setup.
+
+⚠ Important – Please read carefully
+
+These macros are:
+
+Experimental
+
+Highly customized
+
+Specifically tuned for my personal 6WD Tridex system
+
+Optimized for extreme speed and high acceleration setups
+
+They are not plug-and-play.
+
+The configuration is built around:
+
+A 6WD AWD motion system
+
+IDEX architecture
+
+High motor currents
+
+High acceleration values
+
+Advanced homing logic
+
+Aggressive performance tuning
+
+Using these macros on a different machine without proper adaptation can:
+
+Cause crashes
+
+Damage hardware
+
+Lead to skipped steps or desync
+
+Overstress motors or drivers
+
+You must fully understand what the macros do before using them.
+
+These files are shared for reference, learning and development purposes only.
+
 # 6WD Tridex – Full CAD Release
 
 This repository contains the full CAD files of my custom 6WD Tridex (CoreXY AWD hybrid) project.

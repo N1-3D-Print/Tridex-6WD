@@ -44,6 +44,7 @@ You must fully understand what the macros do before using them.
 
 These files are shared for reference, learning and development purposes only.
 
+Macro for SWAP Speeds in the # IDEX_mode_6WD.cfg
 <p align="center">
   <img src="images/swap_speed_macro.png" width="800">
 </p>

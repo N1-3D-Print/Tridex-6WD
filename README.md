@@ -44,8 +44,8 @@ You must fully understand what the macros do before using them.
 
 These files are shared for reference, learning and development purposes only.
 
-# Macro for SWAP Speeds in the IDEX_mode_6WD.cfg
-This macro sets the ACCEL, SCV and MINIMUM CRUISE RATIO to set Speeds
+# Macro for SWAP Toolhead Speeds in the IDEX_mode_6WD.cfg
+This macro sets the ACCEL, SCV and MINIMUM CRUISE RATIO to set Speeds for Toolhead Swaps
 <p align="center">
   <img src="images/swap_speed_macro.png" width="800">
 </p>
